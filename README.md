@@ -1,18 +1,15 @@
-### Hi there 👋
-I'm a IT system enginner with focus on cloud & digital workplace. 
-### Grüezi 🙌🏻
+### Grüezi!  👋
+I'm a IT system enginner with focus on cloud & digital workplace. ☁
 
-##
-- 🔭 I’m currently working on signity
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on security improvements  
-- ⚡ Fun fact:  
-- 💬 
-
+## About me 🥇
+- 🔭 Working on small projects 
+- 🌱 Always learning 
+- 👯 Looking forward for collaboration 
+- 💬 Feel free to start a conversation 
 
 ### Interact with me 👥
-📫: hello@sven-gasser.ch
-🔒: keybase.io/svenga
+- 📫: hello@sven-gasser.ch
+- 🔒: keybase.io/svenga
 
 <br />
 
