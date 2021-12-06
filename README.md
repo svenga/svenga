@@ -8,7 +8,7 @@ I'm a IT system enginner with focus on cloud & digital workplace. ☁
 - 💬 Feel free to start a conversation 
 
 ### Interact with me 👥
-- 📫: hello@sven-gasser.ch
+- 📫: sven@svenga.ch
 - 🔒: keybase.io/svenga
 
 <br />
