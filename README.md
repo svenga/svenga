@@ -1,5 +1,5 @@
 ### Grüezi!  👋
-I'm a IT system enginner with focus on cloud & digital workplace. ☁
+I'm a IT workplace engineer with focus on cloud & digital workplace. ☁
 
 ## About me 🥇
 - 🔭 Working on small projects 
