@@ -9,7 +9,6 @@ I'm a IT workplace engineer with focus on cloud & digital workplace. ☁
 
 ### Interact with me 👥
 - 📫: sven@svenga.ch
-- 🔒: keybase.io/svenga
 
 <br />
 
